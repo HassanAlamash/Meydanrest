@@ -1,0 +1,121 @@
+    @font-face {
+        font-family: "icodash";
+        src: url(../fonts/icodash2.ttf) format("truetype"),
+            url(../fonts/icodash.woff) format("woff"),
+            url(../fonts/icodash.woff2) format("woff2"),
+            url(../fonts/icodash.eot) format("embedded-opentype"),
+            url(../fonts/icodash.svg?4c8541f813cac0753c62e0740c5ce069#icodash) format("svg");
+    }
+    i[class^="icodash-"]:before,
+    i[class*=" icodash-"]:before {
+        font-family: icodash !important;
+        font-style: normaal;
+        font-weight: normal !important;
+        font-variant: normal;
+        text-transform: none;
+        line-height: 1;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;font-style: initial;
+    }
+    .icodash-user:before {
+        content: "\f101";
+    }
+    .icodash-user-1:before {
+        content: "\f102";
+    }
+    .icodash-speech-bubble:before {
+        content: "\f103";
+    }
+    .icodash-next:before {
+        content: "\f104";
+    }
+    .icodash-share:before {
+        content: "\f105";
+    }
+    .icodash-share-1:before {
+        content: "\f106";
+    }
+    .icodash-left-and-right-arrows:before {
+        content: "\f107";
+    }
+    .icodash-heart:before {
+        content: "\f108";
+    }
+    .icodash-camera:before {
+        content: "\f109";
+    }
+    .icodash-video-player:before {
+        content: "\f10a";
+    }
+    .icodash-maps-and-flags:before {
+        content: "\f10b";
+    }
+    .icodash-check:before {
+        content: "\f10c";
+    }
+    .icodash-envelope:before {
+        content: "\f10d";
+    }
+    .icodash-phone-call:before {
+        content: "\f10e";
+    }
+    .icodash-call:before {
+        content: "\f10f";
+    }
+    .icodash-clock:before {
+        content: "\f110";
+    }
+    .icodash-play:before {
+        content: "\f111";
+    }
+    .icodash-loupe:before {
+        content: "\f112";
+    }
+    .icodash-user-2:before {
+        content: "\f113";
+    }
+    .icodash-bed:before {
+        content: "\f114";
+    }
+    .icodash-shower:before {
+        content: "\f115";
+    }
+    .icodash-pencil:before {
+        content: "\f116";
+    }
+    .icodash-two-overlapping-square:before {
+        content: "\f117";
+    }
+    .icodash-printer:before {
+        content: "\f118";
+    }
+    .icodash-comment:before {
+        content: "\f119";
+    }
+    .icodash-home:before {
+        content: "\f11a";
+    }
+    .icodash-garage:before {
+        content: "\f11b";
+    }
+    .icodash-full-size:before {
+        content: "\f11c";
+    }
+    .icodash-tag:before {
+        content: "\f11d";
+    }
+    .icodash-right-arrow:before {
+        content: "\f11e";
+    }
+    .icodash-left-arrow:before {
+        content: "\f11f";
+    }
+    .icodash-left-arrow-1:before {
+        content: "\f120";
+    }
+    .icodash-left-arrow-2:before {
+        content: "\f121";
+    }
+    .icodash-right-arrow-1:before {
+        content: "\f122";
+    }
